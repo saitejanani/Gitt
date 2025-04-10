@@ -1,0 +1,25 @@
+git branch -M main
+switching to origin main
+
+git remote add origin https://github.com/saitejanani/Demo.git
+
+connecting to remote origin i.e GitHub 
+
+git push -u origin main
+
+pushing all the files to origin main
+
+
+git push --set-upstream origin copy1
+
+is used to push the example1 file into copy1 by creating a new branch in GitHub itself
+
+
+git status is used to check the staged and commited files 
+
+git branch is used to view the current branch 
+
+git commit -m "message should be given"
+
+give message while you commit 
+
