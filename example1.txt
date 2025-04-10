@@ -27,3 +27,6 @@ give message while you commit
 git checkout master
 
 it changes branch from copy1 to master 
+
+git checkout -b "dev"
+-b it creates branch using dev name 
