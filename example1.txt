@@ -23,3 +23,7 @@ git commit -m "message should be given"
 
 give message while you commit 
 
+
+git checkout master
+
+it changes branch from copy1 to master 
